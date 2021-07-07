@@ -1,4 +1,4 @@
-# Text Formatting in HTML
+ # Text Formatting in HTML
 
 ## Learning Goals
 
